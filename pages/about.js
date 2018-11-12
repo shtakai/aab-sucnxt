@@ -1,8 +1,7 @@
-import Link from 'next/link'
+import Layout from '../components/FuckLayout'
 
 export default () => (
-  <div>
-    <p>This is the about page</p>
-    <Link href="/">讃岐富士</Link>
-  </div>
+  <Layout>
+    <p>Who dare to hate that morons</p>
+  </Layout>
 )
