@@ -1,0 +1,17 @@
+{
+  "name": "nex",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Alyson Takai <shtakai@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^7.0.2",
+    "react": "^16.6.1",
+    "react-dom": "^16.6.1"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  }
+}
