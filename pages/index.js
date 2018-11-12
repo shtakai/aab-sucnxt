@@ -1,6 +1,10 @@
+import Link from 'next/link'
 export default () => (
   <div>
     hell sucks
+    <Link href="/about">
+      <button>About fucked moron</button>
+    </Link>
     <p>scoped</p>
     <div className="suck">
       <img src="/static/sush.png" alt="sush"/>
